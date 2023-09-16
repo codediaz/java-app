@@ -31,7 +31,7 @@ docker build -t java-multi-app -f Dockerfile.multi .
 ```
 6. Run the MultiStage Docker container
 ```
-docker run --name java-app-multi -p 8081:8080 
+docker run --name java-app-multi -p 8081:8080 java-multi-app
 ```
 
 ## 🧩 Accesing the Applications
