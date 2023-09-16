@@ -1,4 +1,8 @@
-# JAVA - APP
+# Java app ☕
+
+## ⚙️Requirements
+To execute this project, the following is required
+- Docker installed on your system. You can download it from [Docker's website](https://www.docker.com/get-started/)
 
 ## 🐋Docker
 ```
