@@ -19,7 +19,7 @@ cd java-app
 ```
 3. Build the simple Docker image
 ``` 
-docker build -t java-app -f Dockerfile 
+docker build -t java-app -f Dockerfile .
 ```
 4. Run the simple Docker container
 ```
