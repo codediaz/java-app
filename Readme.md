@@ -1,4 +1,4 @@
-# Java app ☕
+# Maven java app ☕
 
 ## ⚙️ Requirements
 To execute this project, the following is required:
