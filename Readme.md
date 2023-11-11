@@ -11,11 +11,11 @@ To execute this project, the following is required:
 ## 👻 How to use
 1. Clone this repository to ur local machine:
 ```
-git clone https://github.com/codediaz/java-app-23.git
+git clone https://github.com/codediaz/maven-java-app.git
 ```
 2. Navigate to the project directory:
 ```
-cd java-app-23
+cd maven-java-app
 ```
 3. Build the simple Docker image
 ``` 
